@@ -1,0 +1,49 @@
+#main h1 {
+	text-align: center;
+	margin: 20px 0px;
+}
+
+#main h5 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.main-profile {
+	margin: 0px auto;
+	text-align: center;
+}
+
+.main-profile-content {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	color: white;
+	line-height: 100px;
+	margin-right: 10px;
+}
+
+.main-profile-content:nth-last-child() {
+	margin-right: 0px;
+}
+
+.img-wrapper {
+	width: 60%;
+	margin: 20px auto;
+	margin-bottom: 40px;
+}
+
+.img {
+	position: relative;
+	padding-top: 80%;
+	overflow: hidden;
+}
+
+.img img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	height: auto;
+}

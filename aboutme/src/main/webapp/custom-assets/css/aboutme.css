@@ -1,0 +1,25 @@
+#main {
+	margin: 20px 10%;
+}
+
+.main-section {
+	margin-bottom: 40px;
+}
+
+.main-section:last-child {
+	margin-bottom: 0px;
+}
+
+.main-section a {
+	color: blue;
+}
+
+.main-section p {
+	font-weight: 400;
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+
+.main-section p:last-child {
+	margin-bottom: 0px;
+}

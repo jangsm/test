@@ -1,0 +1,27 @@
+.main-section {
+	padding: 40px 10%;
+}
+
+.main-section img {
+	display: inline-block;
+	width: 30%;
+	height: auto;
+	margin-right: 30px;
+	vertical-align: top;
+	border: 10px solid gray;
+}
+
+.main-section p {
+	display: inline-block;
+	font-size: 13px;
+	font-weight: 600;
+	color: black;
+	line-height: 30px;
+}
+
+.main-section-divide {
+	background: gray;
+	border: 0px;
+	height: 2px;
+	margin: 0px 10px;
+}
